@@ -1,0 +1,173 @@
+body
+{
+    
+    background-size:cover;
+    background-position: 200px;
+    box-sizing: border-box;
+
+    height: max-content;
+}
+::placeholder{
+
+ color: black;   
+}
+
+.ss{
+
+display: flex;
+justify-content:space-around ;
+
+}
+.s1{
+    display: flex;
+    justify-content: space-around;
+    
+    }
+.s2{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+        .s3{
+display: flex;
+justify-content: space-around;
+
+
+        }
+        .s4{
+            display: flex;
+            justify-content: space-around;
+            
+            
+                    }
+#sp{
+ width: 90%;
+}
+.main{
+
+
+    height: max-content;
+}
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    border-color: black;
+}
+.sakthi{
+    box-sizing: border-box;
+    padding: 40px 20px;
+    position: relative;
+    width: 50%;
+    height: 650px;
+    left: 25%;
+    border: solid 2px;
+
+}
+#g
+{
+    position: absolute;
+    left: 56%;
+}
+#po
+{
+    position: absolute;
+    left: 37%;
+}
+#e2
+{
+    position: absolute;
+    left: 20%;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+}
+.two{
+    display: flex;
+    justify-content: space-around;
+}
+.three{
+    display: flex;
+    justify-content: space-around;
+}
+.four{
+    display: flex;
+    justify-content: space-around;
+
+}
+.five{
+    display: flex;
+    justify-content: space-around;
+}
+.six{
+    display: flex;
+    justify-content: space-around;
+}
+.sevan{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.sakthi input{
+display: flex;
+width: 240px;
+height: 25px;
+}
+p{
+    display: flex;
+    justify-content: flex-start;
+}
+#sm{
+    display: inline;
+    width: 10px;
+    height: 10px;
+    outline-color: black;
+
+}
+#smv{
+    display: inline;
+    width: 10px;
+    height: 10px;
+    outline-color: black;
+}
+span{
+    margin-left: 10px;
+    color: rgb(219, 51, 51);
+}
+
+.dd{
+    margin-left: 17%;
+
+}
+button{
+    width: 140px;
+    height: 35px;
+    color: antiquewhite;
+    background-color: rgb(7, 8, 8)
+    
+}
+h1{
+    margin-top: -15px;
+}
+table{
+    
+    
+
+    width: 100%;
+    
+    
+}
+table ,th,td{
+border: solid 3px black;
+border-collapse: collapse;
+background: rgb(165, 143, 45);
+}
+.fg{
+
+margin-top: 2%;
+
+}
